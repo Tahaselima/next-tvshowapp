@@ -4,7 +4,7 @@
 
 Check out the [demo](https://tvshowsapp.tahaselimaksakal.now.sh/) here. 
 
-herokuapp: [demo](https://tvshowapp-next.herokuapp.com) But block IP :)
+herokuapp: [demo](https://tvshowapp-next.herokuapp.com) 
 
 ## 🛠 Setup
 
