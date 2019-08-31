@@ -20,7 +20,7 @@ class Home extends React.Component {
                     type="text" 
                     value={this.state.inputValue} 
                     onChange={evt => this.updateInputValue(evt)}
-                    onKeyPress={(event) => event.key === 'Enter' ? Router.push(`/tvshow?name=${this.state.inputValue}`) : null}
+                    onKeyPress={(event) => event.key === 'Enter' ? Router.push(`/tvshow?name=${this.state.inputValue}`, `/${this.state.inputValue}`) : null}
                 />
                 <div className="input-group-append">
                     <Link href={`/tvshow?name=${this.state.inputValue}`} as={`/${this.state.inputValue}`}>
