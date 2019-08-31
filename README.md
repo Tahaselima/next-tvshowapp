@@ -2,8 +2,6 @@
 
 > 🛍 Tv Show app
 
-Next.js webshop built using [Stripe checkout](https://stripe.com/checkout) and [moltin](https://moltin.com).
-
 Check out the [demo](https://tvshowsapp.tahaselimaksakal.now.sh/) here. But block IP :)
 
 herokuapp: 
