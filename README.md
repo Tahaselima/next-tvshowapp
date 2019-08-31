@@ -2,9 +2,9 @@
 
 > 🛍 Tv Show app
 
-Check out the [demo](https://tvshowsapp.tahaselimaksakal.now.sh/) here. But block IP :)
+Check out the [demo](https://tvshowsapp.tahaselimaksakal.now.sh/) here. 
 
-herokuapp: 
+herokuapp: [demo](https://tvshowapp-next.herokuapp.com) But block IP :)
 
 ## 🛠 Setup
 
