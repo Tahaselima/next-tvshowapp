@@ -7,7 +7,7 @@ export const actionTypes = {
 
 export let fetchTvShow = (payload) => {
     return (dispatch) => {
-        fetch('http://api.tvmaze.com/search/shows?q=' + payload)
+        fetch('https://api.tvmaze.com/search/shows?q=' + payload)
           .then((res) => {
             return res.json()
           }, (err) => {
