@@ -1,0 +1,44 @@
+{
+  "name": "TvShowsApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-sass": "^1.0.1",
+    "es6-promise": "^4.2.8",
+    "isomorphic-fetch": "^2.2.1",
+    "next": "^9.0.5",
+    "next-images": "^1.1.2",
+    "next-redux-wrapper": "^3.0.0",
+    "node-sass": "^4.10.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-feather": "^2.0.3",
+    "react-redux": "^7.1.1",
+    "react-text-ellipsis": "^1.6.0",
+    "redux": "^4.0.4",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^1.13.0",
+    "@typescript-eslint/parser": "^1.13.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.2.2",
+    "eslint-config-react-app": "^5.0.1",
+    "eslint-plugin-flowtype": "^3.13.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-react-hooks": "^1.7.0"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next:build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
