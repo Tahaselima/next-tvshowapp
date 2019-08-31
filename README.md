@@ -8,6 +8,8 @@ herokuapp: [demo](https://tvshowapp-next.herokuapp.com)
 
 ## 🛠 Setup
 
+API: http://www.tvmaze.com/api
+
 ## Quick start
 
 1. Run `yarn` or `npm install` to install dependencies.<br />
