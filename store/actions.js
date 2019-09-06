@@ -6,8 +6,8 @@ export const actionTypes = {
 }
 
 export let fetchTvShow = (payload) => {
-    return (dispatch) => {
-        fetch('https://api.tvmaze.com/search/shows?q=' + payload)
+    return async (dispatch) => {
+        await fetch('https://api.tvmaze.com/search/shows?q=' + payload)
           .then((res) => {
             return res.json()
           }, (err) => {
