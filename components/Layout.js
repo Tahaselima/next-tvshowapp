@@ -1,7 +1,6 @@
 import Head from 'next/head';
 import Navbar from './Navbar';
 import '../styles/index.scss'
-import '../styles/nprogress.scss'
 
 const Layout = props => (
 	<div>
